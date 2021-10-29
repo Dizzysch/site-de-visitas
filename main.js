@@ -30,7 +30,7 @@ function changeHeaderWhenScroll() {
   }
 }
 
-const swiper = new Swiper('.swiper-container', {
+const swiper = new Swiper(' .swiper-container', {
   slidesPreview: 1,
   pagination: {
     el: '.swiper-pagination'
